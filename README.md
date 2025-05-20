@@ -8,4 +8,7 @@ Project Title: Brain Tumor Classifier
 ************************************
 
 Hugging Face: https://huggingface.co/spaces/hakanuca/brain-tumor-classifier
+
+************************************
+
 Medium Blog: https://medium.com/@hakanhuca/brain-tumor-classifier-with-fastai-and-gradio-hugging-face-16ed1bdc920b
